@@ -869,6 +869,10 @@ overlay/framework-res__komodo_beta__auto_generated_rro_vendor.apk
 
 overlay/UwbOverlayKM4/UwbOverlayKM4Gsi.apk
 
+overlay/CrossDeviceAccessServicePrimary__komodo__auto_generated_rro_vendor.apk
+overlay/NfcOverlayKomodoGsi.apk
+overlay/PixelNfcOverlayCommon.apk
+
 # Symlinks
 lib/modules
 
