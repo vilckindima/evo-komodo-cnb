@@ -7,5 +7,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Android version screen, build maintainer -->
-    <string name="build_maintainer_summary" translatable="false">vandal</string>
+    <string name="build_maintainer_summary" translatable="false">Vilckin Dima</string>
+    <string name="build_maintainer_donate_url" translatable="false">https://vilckindima.github.io</string>
 </resources>

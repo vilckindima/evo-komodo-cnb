@@ -7,7 +7,6 @@ product/priv-app/SCONE-v69510/SCONE-v69510.apk;PRESIGNED
 
 # AiAi
 product/priv-app/AICorePrebuilt-aicore_20260302.01_RC00/AICorePrebuilt-aicore_20260302.01_RC00.apk;PRESIGNED
-product/priv-app/DevicePersonalizationAiAiPrebuiltPixel2024/DevicePersonalizationAiAiPrebuiltPixel2024.apk;PRESIGNED
 
 # Audio
 product/etc/ambient/matcher_tah.leveldb
@@ -230,3 +229,6 @@ recovery/system/etc/vintf/manifest/android.hardware.boot-service.default_recover
 recovery/system/bin/hw/android.hardware.health-service.zumapro_recovery
 recovery/system/etc/init/android.hardware.health-service.zumapro_recovery.rc
 recovery/system/etc/vintf/manifest/android.hardware.health-service.zumapro.xml:recovery/system/etc/vintf/manifest/android.hardware.health-service.zumapro_recovery.xml
+
+# Pixel Camera (Evolution X)
+product/priv-app/GoogleCamera/GoogleCamera.apk;OVERRIDES=Aperture,Camera2;PRESIGNED
